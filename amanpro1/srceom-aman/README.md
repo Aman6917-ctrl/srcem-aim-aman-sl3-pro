@@ -19,7 +19,10 @@ made an homepage to selct E-commerce platform blikit and zepto and there two dif
 
 ##Output
 
-1{homepage}.![Screenshot 2025-03-19 234310](https://github.com/user-attachments/assets/f4a56faa-6d73-4525-b9d6-54382266cd33)
-2{blinkit-pg}.![Screenshot 2025-03-20 003059](https://github.com/user-attachments/assets/393a9d95-2f7a-43fe-8896-6326d8b2f1b6)
-3.{zepto-pg} ![Screenshot 2025-03-20 003229](https://github.com/user-attachments/assets/b8891b68-4329-4df6-a8e9-5aebdea34733)
+1{homepage}.![image](https://github.com/user-attachments/assets/c6b3ed69-f348-4ae8-8a4f-ad35fcf7acfc)
+
+2{flipkart-pg}.![image](https://github.com/user-attachments/assets/d38d1c58-804e-4e48-8f80-67e8bb8809eb)
+
+3.{amazon-pg} ![image](https://github.com/user-attachments/assets/75bb344f-e68b-4353-9223-a822703035de)
+
 
